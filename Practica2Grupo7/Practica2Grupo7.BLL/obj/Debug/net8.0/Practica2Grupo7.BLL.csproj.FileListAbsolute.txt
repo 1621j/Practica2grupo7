@@ -13,3 +13,19 @@ C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug
 C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\refint\Practica2Grupo7.BLL.dll
 C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.pdb
 C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\ref\Practica2Grupo7.BLL.dll
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.deps.json
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.dll
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.pdb
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.dll
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.pdb
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.AssemblyReference.cache
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfoInputs.cache
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfo.cs
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.CoreCompileInputs.cache
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.sourcelink.json
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica.B96C3998.Up2Date
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.dll
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\refint\Practica2Grupo7.BLL.dll
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.pdb
+C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\ref\Practica2Grupo7.BLL.dll

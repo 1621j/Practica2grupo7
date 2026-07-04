@@ -18,7 +18,8 @@ namespace Practica2Grupo7.DAL.Data
             modelBuilder.Entity<Categoria>()
                 .HasMany(c => c.Productos)
                 .WithOne(p => p.Categoria)
-                .HasForeignKey(p => p.CategoriaId);
+                .HasForeignKey(p => p.CategoriaId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

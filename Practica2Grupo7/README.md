@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Heiner David Calderón Montero
-- 
+- Alex Felipe Bolaños Alfaro
 - 
 - 
 

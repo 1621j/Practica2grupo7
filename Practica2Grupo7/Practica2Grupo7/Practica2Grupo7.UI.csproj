@@ -19,4 +19,8 @@
     <ProjectReference Include="..\Practica2Grupo7.DAL\Practica2Grupo7.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Producto\" />
+  </ItemGroup>
+
 </Project>

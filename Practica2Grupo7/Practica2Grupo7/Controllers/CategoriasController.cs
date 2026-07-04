@@ -19,19 +19,51 @@ namespace Practica2Grupo7.UI.Controllers
             return View(categorias);
         }
 
+        [HttpGet]
+        public async Task<JsonResult> ObtenerTodas()
+        {
+            var categorias = await _categoriaService.ObtenerTodasAsync();
+
+            return Json(new
+            {
+                dato = categorias
+            });
+        }
+
         public IActionResult Create()
         {
             return View();
         }
-
         [HttpPost]
         public async Task<IActionResult> Create(CategoriaDto categoriaDto)
         {
             if (!ModelState.IsValid)
-                return View(categoriaDto);
+            {
+                return Json(new
+                {
+                    esCorrecto = false,
+                    mensaje = "Datos inválidos"
+                });
+            }
 
             await _categoriaService.CrearAsync(categoriaDto);
-            return RedirectToAction(nameof(Index));
+
+            return Json(new
+            {
+                esCorrecto = true,
+                mensaje = "Categoría creada correctamente"
+            });
+        }
+        [HttpGet]
+        public async Task<JsonResult> ObtenerPorId(int id)
+        {
+            var categoria = await _categoriaService.ObtenerPorIdAsync(id);
+
+            return Json(new
+            {
+                esCorrecto = categoria != null,
+                dato = categoria
+            });
         }
 
         public async Task<IActionResult> Edit(int id)
@@ -48,10 +80,21 @@ namespace Practica2Grupo7.UI.Controllers
         public async Task<IActionResult> Edit(CategoriaDto categoriaDto)
         {
             if (!ModelState.IsValid)
-                return View(categoriaDto);
+            {
+                return Json(new
+                {
+                    esCorrecto = false,
+                    mensaje = "Datos inválidos"
+                });
+            }
 
             await _categoriaService.EditarAsync(categoriaDto);
-            return RedirectToAction(nameof(Index));
+
+            return Json(new
+            {
+                esCorrecto = true,
+                mensaje = "Categoría actualizada correctamente"
+            });
         }
 
         public async Task<IActionResult> Delete(int id)
@@ -68,7 +111,12 @@ namespace Practica2Grupo7.UI.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _categoriaService.EliminarAsync(id);
-            return RedirectToAction(nameof(Index));
+
+            return Json(new
+            {
+                esCorrecto = true,
+                mensaje = "Categoría eliminada correctamente"
+            });
         }
     }
 }

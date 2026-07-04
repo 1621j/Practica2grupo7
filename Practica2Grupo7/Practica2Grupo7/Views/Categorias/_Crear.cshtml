@@ -1,0 +1,67 @@
+﻿@model Practica2Grupo7.BLL.Dtos.CategoriaDto
+
+<div class="modal fade" id="modalNuevaCategoria" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow-lg rounded-4">
+            <div class="modal-header border-0 p-4"
+                 style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);">
+
+                <h5 class="modal-title text-white fw-bold">
+                    <i class="fas fa-calendar-edit"></i> Crear Categoría
+                </h5>
+
+                <button type="button"
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal"></button>
+
+            </div>
+            <div class="modal-body p-4">
+
+                <form id="formCrearCategoria"
+                      asp-action="Create"
+                      asp-controller="Categorias"
+                      method="post"
+                      class="row g-3">
+
+                    @Html.AntiForgeryToken()
+
+                    <input type="hidden" asp-for="CategoriaId" />
+
+                    <div class="col-md-6">
+                        <label asp-for="Nombre" class="form-label fw-medium">
+                            <i class="bi bi-card-text text-primary me-1"></i>Nombre
+                        </label>
+
+                        <input asp-for="Nombre"
+                               class="form-control"
+                               placeholder="Nombre" />
+
+                        <span asp-validation-for="Nombre"
+                              class="text-danger small"></span>
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <label asp-for="Descripcion" class="form-label fw-medium">
+                            <i class="bi bi-person text-primary me-1"></i>Descripción
+                        </label>
+
+                        <input asp-for="Descripcion"
+                               class="form-control"
+                               placeholder="Descripción" />
+
+                        <span asp-validation-for="Descripcion"
+                              class="text-danger small"></span>
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer bg-light border-0 p-4">
+                <button type="button" class="btn btn-secondary btn-lg rounded-pill" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" id="btnGuardarCategoria" class="btn btn-primary btn-lg rounded-pill px-4">
+                     Guardar Categoría
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
