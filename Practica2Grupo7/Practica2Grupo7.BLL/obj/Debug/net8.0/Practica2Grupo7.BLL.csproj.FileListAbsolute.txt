@@ -1,0 +1,15 @@
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.deps.json
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.dll
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.pdb
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.dll
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.pdb
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.AssemblyReference.cache
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfoInputs.cache
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfo.cs
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.CoreCompileInputs.cache
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica.B96C3998.Up2Date
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.dll
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\refint\Practica2Grupo7.BLL.dll
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.pdb
+C:\Progra Avanzada\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\ref\Practica2Grupo7.BLL.dll
