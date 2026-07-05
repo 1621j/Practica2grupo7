@@ -4,8 +4,8 @@
 
 - Heiner David Calderón Montero
 - Alex Felipe Bolaños Alfaro
-- 
-- 
+- Kendal Andres Salas Gonzalez
+- Jessica Paola Porras Canales
 
 ## Repositorio
 

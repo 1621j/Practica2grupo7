@@ -29,3 +29,19 @@ C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\
 C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\refint\Practica2Grupo7.BLL.dll
 C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.pdb
 C:\Users\afba2\source\repos\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\ref\Practica2Grupo7.BLL.dll
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.deps.json
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.dll
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.BLL.pdb
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.dll
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\bin\Debug\net8.0\Practica2Grupo7.DAL.pdb
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.AssemblyReference.cache
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfoInputs.cache
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.AssemblyInfo.cs
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.csproj.CoreCompileInputs.cache
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.sourcelink.json
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica.B96C3998.Up2Date
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.dll
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\refint\Practica2Grupo7.BLL.dll
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\Practica2Grupo7.BLL.pdb
+D:\Escritotio\Universidad\Programacion Avanzada Web\Semana8\Practica2grupo7\Practica2Grupo7\Practica2Grupo7.BLL\obj\Debug\net8.0\ref\Practica2Grupo7.BLL.dll

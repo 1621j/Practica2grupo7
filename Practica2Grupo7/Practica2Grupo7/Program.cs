@@ -18,6 +18,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseMiddleware<Practica2Grupo7.UI.Middlewares.ExceptionMiddleware>();
+
 app.UseAuthorization();
 
 app.MapControllerRoute(

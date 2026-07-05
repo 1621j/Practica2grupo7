@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|solutionrelative:practica2grupo7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7\\middlewares\\exeptionmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|solutionrelative:practica2grupo7\\middlewares\\exeptionmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7.dal\\repositorios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|solutionrelative:practica2grupo7.dal\\repositorios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E77417F-6AD4-49E3-9FB5-39883B5CEF75}|Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7.bll\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E77417F-6AD4-49E3-9FB5-39883B5CEF75}|Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj|solutionrelative:practica2grupo7.bll\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7.dal\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|solutionrelative:practica2grupo7.dal\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7.dal\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3AA7C-4DEE-4F1C-A073-4E71E0FC10E2}|Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj|solutionrelative:practica2grupo7.dal\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|d:\\escritotio\\universidad\\programacion avanzada web\\semana8\\practica2grupo7\\practica2grupo7\\practica2grupo7\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5353AA33-153D-4AC1-8241-390D27CAEADB}|Practica2Grupo7\\Practica2Grupo7.UI.csproj|solutionrelative:practica2grupo7\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\Program.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7\\Program.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\Program.cs",
+              "RelativeToolTip": "Practica2Grupo7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:41:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExeptionMiddlewares.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\Middlewares\\ExeptionMiddlewares.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7\\Middlewares\\ExeptionMiddlewares.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\Middlewares\\ExeptionMiddlewares.cs",
+              "RelativeToolTip": "Practica2Grupo7\\Middlewares\\ExeptionMiddlewares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:40:52.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Repositorios\\IRepository.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7.DAL\\Repositorios\\IRepository.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Repositorios\\IRepository.cs",
+              "RelativeToolTip": "Practica2Grupo7.DAL\\Repositorios\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:36:56.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7.BLL\\Services\\CategoriaService.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "Practica2Grupo7.BLL\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:36:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7.DAL\\Entidades\\Producto.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Practica2Grupo7.DAL\\Entidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:36:43.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Practica2Grupo7.DAL\\Entidades\\Categoria.cs",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Practica2Grupo7.DAL\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T19:36:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-05T19:34:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.js",
+              "DocumentMoniker": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\wwwroot\\js\\Categoria.js",
+              "RelativeDocumentMoniker": "Practica2Grupo7\\wwwroot\\js\\Categoria.js",
+              "ToolTip": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7\\wwwroot\\js\\Categoria.js",
+              "RelativeToolTip": "Practica2Grupo7\\wwwroot\\js\\Categoria.js",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-05T19:30:45.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

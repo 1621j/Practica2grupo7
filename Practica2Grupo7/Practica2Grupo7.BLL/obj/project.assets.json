@@ -1051,23 +1051,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\afba2\\.nuget\\packages\\": {},
+    "C:\\Users\\XPC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afba2\\source\\repos\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj",
+      "projectUniqueName": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj",
       "projectName": "Practica2Grupo7.BLL",
-      "projectPath": "C:\\Users\\afba2\\source\\repos\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj",
-      "packagesPath": "C:\\Users\\afba2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afba2\\source\\repos\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\obj\\",
+      "projectPath": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\Practica2Grupo7.BLL.csproj",
+      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+      "outputPath": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\afba2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1076,7 +1076,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1084,8 +1083,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\afba2\\source\\repos\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj": {
-              "projectPath": "C:\\Users\\afba2\\source\\repos\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj"
+            "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj": {
+              "projectPath": "D:\\Escritotio\\Universidad\\Programacion Avanzada Web\\Semana8\\Practica2grupo7\\Practica2Grupo7\\Practica2Grupo7.DAL\\Practica2Grupo7.DAL.csproj"
             }
           }
         }
