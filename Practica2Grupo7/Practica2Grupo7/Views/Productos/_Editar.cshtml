@@ -1,0 +1,72 @@
+﻿@model Practica2Grupo7.BLL.Dtos.ProductoDto
+
+<div class="modal fade" id="modalEditarProducto" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow-lg rounded-4">
+            <div class="modal-header border-0 p-4"
+                 style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);">
+
+                <h5 class="modal-title text-white fw-bold">
+                    <i class="fas fa-pills"></i> Editar Producto
+                </h5>
+
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+
+            <div class="modal-body p-4">
+
+                <form id="formEditarProducto"
+                      asp-action="Edit"
+                      asp-controller="Productos"
+                      method="post"
+                      class="row g-3">
+
+                    @Html.AntiForgeryToken()
+
+                    <input type="hidden" asp-for="ProductoId" />
+
+                    <div class="col-md-6">
+                        <label asp-for="Nombre" class="form-label fw-medium">Nombre</label>
+                        <input asp-for="Nombre" class="form-control" />
+                        <span asp-validation-for="Nombre" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="Descripcion" class="form-label fw-medium">Descripción</label>
+                        <input asp-for="Descripcion" class="form-control" />
+                        <span asp-validation-for="Descripcion" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label asp-for="Precio" class="form-label fw-medium">Precio</label>
+                        <input asp-for="Precio" type="number" step="0.01" class="form-control" />
+                        <span asp-validation-for="Precio" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label asp-for="Stock" class="form-label fw-medium">Stock</label>
+                        <input asp-for="Stock" type="number" class="form-control" />
+                        <span asp-validation-for="Stock" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label asp-for="CategoriaId" class="form-label fw-medium">Categoría</label>
+                        <select asp-for="CategoriaId" asp-items="ViewBag.Categorias" class="form-select">
+                            <option value="">Seleccione</option>
+                        </select>
+                        <span asp-validation-for="CategoriaId" class="text-danger small"></span>
+                    </div>
+
+                </form>
+            </div>
+
+            <div class="modal-footer bg-light border-0 p-4">
+                <button type="button" class="btn btn-secondary btn-lg rounded-pill" data-bs-dismiss="modal">Cancelar</button>
+
+                <button type="button" id="btnEditarProducto" class="btn btn-primary btn-lg rounded-pill px-4">
+                    <i class="fas fa-save"></i> Guardar Cambios
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

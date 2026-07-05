@@ -1,4 +1,6 @@
-﻿using Practica2Grupo7.BLL.Dtos;
+﻿using Microsoft.EntityFrameworkCore;
+using Practica2Grupo7.BLL.Dtos;
+using Practica2Grupo7.DAL.Data;
 using Practica2Grupo7.DAL.Entidades;
 using Practica2Grupo7.DAL.Repositorios;
 
@@ -15,7 +17,11 @@ namespace Practica2Grupo7.BLL.Services
 
         public async Task<List<ProductoDto>> ObtenerTodosAsync()
         {
-            var productos = await _repository.ObtenerTodosAsync();
+            using var context = new AppDbContext();
+
+            var productos = await context.Productos
+                .Include(p => p.Categoria)
+                .ToListAsync();
 
             return productos.Select(p => new ProductoDto
             {
@@ -25,13 +31,17 @@ namespace Practica2Grupo7.BLL.Services
                 Precio = p.Precio,
                 Stock = p.Stock,
                 CategoriaId = p.CategoriaId,
-                NombreCategoria = p.Categoria?.Nombre ?? string.Empty
+                NombreCategoria = p.Categoria != null ? p.Categoria.Nombre : string.Empty
             }).ToList();
         }
 
         public async Task<ProductoDto?> ObtenerPorIdAsync(int id)
         {
-            var producto = await _repository.ObtenerPorIdAsync(id);
+            using var context = new AppDbContext();
+
+            var producto = await context.Productos
+                .Include(p => p.Categoria)
+                .FirstOrDefaultAsync(p => p.ProductoId == id);
 
             if (producto == null)
                 return null;
@@ -44,7 +54,7 @@ namespace Practica2Grupo7.BLL.Services
                 Precio = producto.Precio,
                 Stock = producto.Stock,
                 CategoriaId = producto.CategoriaId,
-                NombreCategoria = producto.Categoria?.Nombre ?? string.Empty
+                NombreCategoria = producto.Categoria != null ? producto.Categoria.Nombre : string.Empty
             };
         }
 
